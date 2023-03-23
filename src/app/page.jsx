@@ -15,7 +15,7 @@ export default function Home() {
           width="300"
           height="100"
           src="https://www.google.co.kr/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png"
-        />
+         alt="google"/>
 
         <HomeSearch/>
       </div>
